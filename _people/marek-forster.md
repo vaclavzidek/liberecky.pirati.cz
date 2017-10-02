@@ -8,7 +8,6 @@ img: people/marek-forster.jpg   # 165 x 220
 description: OSVČ, vývojář internetových a databázových aplikací, DJ.            	# kratký popis, max 160 znaků
 mail:
 - marek.forster@pirati.cz
-mob:			  +420 775 688 305
 profiles:
   twitter: https://twitter.com/madbeyk
 ordpsp: 7
@@ -33,7 +32,7 @@ Už v útlém věku propadl kouzlu počítačů, což mu zůstalo.
 
 Profesionálně se orientuje na vývoj internetových a databázových aplikací, v poslední době také pro dotyková zařízení.
 
-Amatérsky se věnuje sjezdovému lyžování a cyklistice. Ve volném čase koumá nové technologie, fotografuje, poslouchá a skládá elektronickou hudbu.
+Amatérsky se věnuje sjezdovému lyžování a cyklistice. Ve volném čase koumá nové technologie, fotografuje, pilotuje dron, poslouchá a skládá elektronickou hudbu.
 
 O politiku se začal zajímat zhnusen vývojem politiky v poslední době a postupnou degradací svobody u nás. Piráti jsou mu srdcem i duší nejbližší, proto se stal v roce 2011 jejich příznivcem a podporovatelem a v roce 2013 právoplatným členem.
 

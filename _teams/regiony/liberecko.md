@@ -7,9 +7,9 @@ img: teams/liberec.jpg
 leader: Ondřej Kolek
 deputy:
 - Petr Vyhnal
-- Martin Rejman
+- Daniela Weissová
 contact:
-- Zuzana Jíchová
+- Samuel Machat
 region: Liberecký kraj
 url: https://www.pirati.cz/regiony/liberecko/start
 categories:
@@ -23,11 +23,12 @@ twitter: https://twitter.com/piratilik
 # do popisku akce níže vložte, kdy a kde se tým schází a jak se zapojit
 ---
 
-Máme 2 zastupitele v České Lípě (Tomáše Martínka a Jiřího Wawrečku), jednoho v Mimoni (Jindřicha Krouse).
+Máme zastupitele [Tomáše Martínka]({{ '/lide/tomas-martinek/' | relative_url }}) v České Lípě a [Petra Balka]({{ '/lide/petr-balek/' | relative_url }}) v Mimoni.
 
 Možnosti zapojení:
 
-* Kontaktujte koordinátorku pro Plzeňský kraj Zuzanu Jíchovou (zuzana.jichova(at)pirati.cz). V nepravidelných intervalech se konají setkání místních Pirátů v Liberci. Sledujte [náš Facebook](https://www.facebook.com/pg/cpslbc/events/).
+* Kontaktujte koordinátora pro Liberecký kraj [Samuela Machata]({{ '/lide/samuel-machat/' | relative_url }})  (samuel.machat(at)pirati.cz).
+* V nepravidelných intervalech se konají setkání místních Pirátů v Jablonci, Liberci a Turnově.
+* Sledujte [náš Facebook](https://www.facebook.com/pg/cpslbc/events/).
 
-Podívejte se na konkrétní termíny akcí v [kalendáři]({{ '/pripoj-se/kalendar/' | relative_url }}),
-abyste se ujistili, že akce bude.
+Podívejte se na konkrétní termíny akcí v [kalendáři]({{ '/pripoj-se/kalendar/' | relative_url }}), abyste se ujistili, že akce bude.

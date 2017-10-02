@@ -11,9 +11,11 @@ layout: default
           <div class="c-BasicPage">
             <div class="c-BasicPage-content">
               <div class="jmk-candidates">
-                <h1>Naši kandidáti</h1>
+                <h1>Naši kandidáti do voleb do poslanecké sněmovny</h1>
                 <p>
-                  Všichni nekradou! Naši kandidáti byli zvoleni v rámci <a href="https://forum.pirati.cz/krajske-forum-jihomoravsky-kraj-f411/primarni-volby-pro-volby-do-psp-2017-t36031.html">veřejných vnitrostranických primárních voleb</a> a <a href="https://forum.pirati.cz/krajske-forum-jihomoravsky-kraj-f411/krajska-kandidatka-pro-volby-do-psp-cr-2017-t37421.html" target="_blank">hlasování</a>. Přímou demokracii a transparentnost myslíme opravdu vážně, chceme je aplikovat na stát a začínáme od sebe.
+                  Všichni nekradou! Naši kandidáti byli zvoleni v rámci <a href="https://forum.pirati.cz/krajske-forum-liberecky-kraj-f410/kf-lik-11-2017-prim-volby-do-ps-dovolba-rozprava-t37379.html">veřejné rozpravy</a>, <a href="https://forum.pirati.cz/krajske-forum-liberecky-kraj-f410/volby-do-poslanecke-snemovny-2017-primarky-t36077.html">veřejných vnitrostranických primárních voleb</a> a <a href="https://forum.pirati.cz/krajske-forum-liberecky-kraj-f410/kf-lik-12-2017-prim-volby-do-ps-dovolba-hlasovani-t37446.html" target="_blank">hlasování</a> na oficiálním fóru.<br/>
+                  Přímou demokracii a transparentnost myslíme opravdu vážně, chceme je aplikovat na stát a začínáme od sebe.
+                  <br/><br/>
                 </p>
                 {% assign team = site.people | where_exp:"item","item.categories contains 'psp'" | sort:"ordpsp" %}
                 {% for item in team limit:6 %}
@@ -41,7 +43,7 @@ layout: default
                     </div>
                     {% endif %}
                   {% endfor %}
-              <div>
+              </div>
 
               <ul class="c-simple-accordion" data-accordion="" data-options="allowAllClosed: true">
                 <li class="c-simple-accordion-item" data-accordion-item="">
@@ -58,8 +60,10 @@ layout: default
                   <div id="pks" class="c-simple-accordion-content" data-tab-content="">
                     {% assign team = site.people | where_exp:"item","item.categories contains 'pks'" | sort:"ordpks" %}
                     {% include people/list-2col.html param=team %}
+                  </div>  
                 </li>
               </ul>
+              <!--
               <ul class="c-simple-accordion" data-accordion="" data-options="allowAllClosed: true">
                 <li class="c-simple-accordion-item" data-accordion-item="">
                   <a href="#senat" class="c-simple-accordion-title">Naši členové</a>
@@ -68,6 +72,7 @@ layout: default
                   </div>
                 </li>
               </ul>
+              --> 
             </div>
           </div>
         </main>
