@@ -10,7 +10,7 @@ mail:
 - jan.balas@pirati.cz
 profiles:
   facebook: https://www.facebook.com/honza.balas.12
-ordpsp: 12
+ordpsp: 11
 
 supporting:
 - Stát, který hájí zájmy svých občanů

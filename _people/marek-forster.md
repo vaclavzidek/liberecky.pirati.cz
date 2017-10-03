@@ -5,7 +5,7 @@ fullname: Marek Förster  	# jméno s tituly etc.
 category:                 	# kategorie: kandidat, pks, zastupitel
 - psp
 img: people/marek-forster.jpg   # 165 x 220
-description: OSVČ, vývojář internetových a databázových aplikací, DJ.            	# kratký popis, max 160 znaků
+description: OSVČ, vývojář internetových a databázových aplikací, DJ a producent, pilot.            	# kratký popis, max 160 znaků
 mail:
 - marek.forster@pirati.cz
 profiles:
