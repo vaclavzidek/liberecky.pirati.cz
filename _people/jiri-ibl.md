@@ -8,7 +8,7 @@ img: people/jiri-ibl.jpg   # 165 x 220
 description: Designér, Jizerská koruna, Malá pokladna, Tatrhy            	# kratký popis, max 160 znaků
 mail:
 - jiri.ibl@pirati.cz
-ordpsp: 16
+ordpsp: 15
 
 supporting:
 - Stát, který hájí zájmy svých občanů

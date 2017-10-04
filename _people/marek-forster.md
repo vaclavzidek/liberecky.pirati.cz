@@ -13,30 +13,40 @@ profiles:
 ordpsp: 7
 
 supporting:
-- Internet - přístup k informacím - je základní lidské právo - nesmí být omezován ani cenzurován
-- Svoboda v reálném životě i na internetu
-- Stát by měl být jen základním servisním zázemím občana (infrastruktura, bezpečnost, vzdělání, zdravotnictví), ne jeho (ekonomickou) koulí na noze
-- Žijeme v Evropě, platíme evropské ceny za zboží i služby - měli bychom být evropsky odměňováni
+- Internet (přístup k informacím) je základní lidské právo, nesmí být omezován ani cenzurován
+- Stát by měl být levným základním servisním zázemím občana a musí přestat lidem kecat do života
+- Zrušení zbytečných agend na straně státu a propuštění minimálně 15% státních úředníků 
+- Žijeme v Evropě, platíme evropské ceny za zboží i služby, měli bychom být evropsky odměňováni
+- Průhledné hospodaření státu, všechny jeho výdaje musí být snadno veřejně dohledatelné
+- Snížení daňové zátěže a odvodů pro zaměstnance a podnikatele 
 
 notsupporting:
-- Absurditám a buzeraci ze strany státu
-- Zákony vznikají v takovém chaosu, že nikdo nemá šanci to sledovat, nedejbože se tím řídit
-- Aby mě stát mohl šmírovat a přitom mi tajil, jak hospodaří s penězi od lidí
-motto: ["Pojďme si tu naši malou republiku nastavit tak, abychom v ní mohli žít.", "Já"]
+- Je třeba snížit byrokracii, absurdity a buzeraci ze strany státu pro podnikatele
+- Zákony a jejich aktualizace vznikají v takovém chaosu, že to nikdo nemá šanci sledovat, nedejbože se tím řídit
+- Jakákoliv forma dotací a pobídek poškozuje ekonomiku a podporuje pouze velké a nadnárodní firmy
+- Jsem proti vystoupení z EU
+- ČNB by neměla nadále ovlivňovat kurz koruny, stop intervencím a znehodnocování českých platů
+- Zákaz kouření v jakýchkoliv soukormých prostorech by měl být zrušen
+ 
+
+motto: ["Nic není důležitější než svoboda.", "Ernest Hemingway, americký spisovatel a novinář"]
 
 ---
 
-Marek se narodil 4. července 1976 ve Frýdlantu v Čechách, od malička žil v Desné v Jizerských horách, studoval eletrotechniku v Liberci a Praze, kde poté asi 12 let žil, pracoval a podnikal. Na jaře 2011 se vrátil do Jizerek, nyní podniká a žije s přítelkyní Hankou a kocourem Garfieldem (ve střídavé péči) v Desné.
+Marek se narodil 4. července 1976 ve Frýdlantu v Čechách. Od malička žil v Desné v Jizerských horách, chodil do školy v Jablonci nad Nisou, studoval eletrotechniku v Liberci a Praze.
+V Praze poté asi 12 let žil, pracoval a podnikal. Na jaře 2011 se vrátil do Jizerek, nyní podniká a žije s přítelkyní Hankou a kocourem Garfieldem v Desné.
 
-Už v útlém věku propadl kouzlu počítačů, což mu zůstalo.
+Už v útlém věku propadl kouzlu počítačů a programování, což mu zůstalo.
 
-Profesionálně se orientuje na vývoj internetových a databázových aplikací, v poslední době také pro dotyková zařízení.
+Profesionálně se orientuje na vývoj internetových a databázových aplikací, v poslední době pro dotyková zařízení.
 
-Amatérsky se věnuje sjezdovému lyžování a cyklistice. Ve volném čase koumá nové technologie, fotografuje, pilotuje dron, poslouchá a skládá elektronickou hudbu.
+Amatérsky se věnuje sjezdovému lyžování a cyklistice. Ve volném čase koumá nové IT technologie, fotografuje, pilotuje dron, poslouchá a skládá elektronickou hudbu.
 
-O politiku se začal zajímat zhnusen vývojem politiky v poslední době a postupnou degradací svobody u nás. Piráti jsou mu srdcem i duší nejbližší, proto se stal v roce 2011 jejich příznivcem a podporovatelem a v roce 2013 právoplatným členem.
+O politiku se začal zajímat zhnusen vývojem politiky v posledních letech a postupnou degradací svobody a demokracie u nás.
 
-V roce 2014 se stal druhým místopředsedou libereckého krajského sdružení. Na tuto funkci ale v roce 2016 rezignoval, kvůli nedostatku času na své podnikatelské a osobní projekty. V současné době je vedoucím krajského mediálního odboru.
+Piráti jsou mu srdcem i duší nejbližší, proto se stal v roce 2011 jejich příznivcem a podporovatelem a v roce 2013 právoplatným členem.
+V roce 2014 se stal druhým místopředsedou libereckého krajského sdružení. Na tuto funkci ale v roce 2016 rezignoval, kvůli nedostatku času na své podnikatelské a osobní projekty. V současné době ve straně vykonává funkci vedoucího krajského mediálního odboru.
+
 
 
 **Politické názory a priority** 

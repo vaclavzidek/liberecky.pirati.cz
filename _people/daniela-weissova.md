@@ -14,25 +14,18 @@ profiles:
 ordpsp: 2
 ordpks: 3
 
-supporting:
-- Stát, který hájí zájmy svých občanů
-- Progresivní politiky, kteří ve 21. století nejen žijí, ale i uvažují
-- Aby se se slovem byrokracie mé děti setkaly leda v dějepisu
-- Vodu. Což znamená bránit pokračujícímu suchu
 
-notsupporting:
-- Absurditám a buzeraci ze strany státu
-- Aby mě stát mohl šmírovat a přitom mi tajil, jak hospodaří s penězi od lidí
-- <a href="http://hlidacipes.org/neznalost-neomlouva-ale-cesky-pravni-rad-aktualne-obsahuje-kolem-2-milionu-pravnich-norem/" target="_blank">2.000.000 zákonům a právních norem</a>
-motto: ["Politikům se nevěří, politici se kontrolují.", "Karel Kryl"]
+motto: ["Smích je branou a úsměv dveřmi, kterými může do člověka vklouznout mnoho dobrého.", "Christian Morgenstern"] 
 
 ---
 
-Daniela Weissová (56) pochází ze Turnova.
+Daniela Weissová (*1.8.1961), narodila se v Jablonci nad Nisou, žije a pracuje v Turnově.
+Původní profesí pedagožka, později knihovnice, ještě později první mluvčí svobodného Městského úřadu v Turnově, pak ne příliš úspěšné podnikání.
+Současnost: dramaturg KC Turnov, Zdravotní klaun a aktivní herečka alternativního divadla Čmukaři, členka poradního orgánu MKČR – odborné rady pro loutkářství ARTAMA, lektorka, porotkyně.
 
-Vystudovala pedagogiku, později pracovala jako knihovnice.
-Pracovala jako tisková mluvčí Městského úřadu v Turnově, poté po nějakou dobu podnikala.
+Členem Pirátů jsem čtvrtým rokem a snažím se posouvat Piráty v povědomí lidí na Turnovsku a potažmo v celém kraji.
+Po dvakrát jsem garantovala uspořádání Dětského pirátského dne na Zrcadlové koze, aktivní spolupráce na petici o zamezení vzniku nové obchvatné komunikace přes turnovská Luka, oceněná Medailí starosty města Turnova za přínos demokracii, nyní nominuji osobností na ocenění Medailí starosty města, mítinky u příležitosti voleb, výročí 17.listopadu a pod.
 
-V současné době pracuje jako zdravotní klaun a jako herečka alternativního divadla Čmukaři. Je členkou poradního orgánu Ministerstva kultury ČR – odborné rady pro loutkářství ARTAMA, lektorkou a porotkyní.
-
-Členkou Pirátské strany je od roku 2013.
+Aktivně pracuji za Piráty ve dvou komisích Rady města Turnova. Moje zásadní témata jsou svoboda, vzdělání, kultura. A to proto, že s jejich realizací jde ruku v ruce i úroveň společnosti, její morálka, hodnoty a lidství.
+ 
+Ráda bych pomohla Pirátům dosáhnout volebního úspěchu a věřím, že ve sněmovně budeme mít možnost dokázat, že politika se dá dělat jinak.
