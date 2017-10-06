@@ -13,16 +13,14 @@ profiles:
 ordpsp: 11
 
 supporting:
-- Stát, který hájí zájmy svých občanů
-- Progresivní politiky, kteří ve 21. století nejen žijí, ale i uvažují
-- Aby se se slovem byrokracie mé děti setkaly leda v dějepisu
-- Vodu. Což znamená bránit pokračujícímu suchu
+- Změna osnov na základních a středních školách
+- Zavádění moderních technologií do škol a státní správy
+- Jasná a jednotná linie zahraniční politiky ČR
 
 notsupporting:
-- Absurditám a buzeraci ze strany státu
-- Aby mě stát mohl šmírovat a přitom mi tajil, jak hospodaří s penězi od lidí
-- <a href="http://hlidacipes.org/neznalost-neomlouva-ale-cesky-pravni-rad-aktualne-obsahuje-kolem-2-milionu-pravnich-norem/" target="_blank">2.000.000 zákonům a právních norem</a>
-motto: ["Politikům se nevěří, politici se kontrolují.", "Karel Kryl"]
+- Jsem proti nepřehlednému hospodaření státu
+
+motto: ["Vzděláním vše teprve začíná.", "Jan Balaš"]
 
 ---
 
