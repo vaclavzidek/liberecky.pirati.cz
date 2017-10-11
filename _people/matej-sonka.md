@@ -12,7 +12,7 @@ profiles:
   facebook: https://www.facebook.com/matej.sonka
 ordpsp: 13
 
-motto: ["Politikům se nevěří, politici se kontrolují.", "Karel Kryl"]
+motto: ["Problém ve světě je ten, že inteligentní lidé jsou plni pochyb, kdežto blbci plni sebedůvěry.", "Charles Bukowski"]
 
 ---
 

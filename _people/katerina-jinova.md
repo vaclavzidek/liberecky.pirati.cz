@@ -11,22 +11,15 @@ mail:
 profiles:
 ordpsp: 8
 
-supporting:
-- Stát, který hájí zájmy svých občanů
-- Progresivní politiky, kteří ve 21. století nejen žijí, ale i uvažují
-- Aby se se slovem byrokracie mé děti setkaly leda v dějepisu
-- Vodu. Což znamená bránit pokračujícímu suchu
-
-notsupporting:
-- Absurditám a buzeraci ze strany státu
-- Aby mě stát mohl šmírovat a přitom mi tajil, jak hospodaří s penězi od lidí
-- <a href="http://hlidacipes.org/neznalost-neomlouva-ale-cesky-pravni-rad-aktualne-obsahuje-kolem-2-milionu-pravnich-norem/" target="_blank">2.000.000 zákonům a právních norem</a>
-motto: ["Pro tento systém jsou dostupné aktualizace.", "Petr Vyhnal"]
+motto: ["Nejdůležitější svoboda je být, jací doopravdy jste.", "Jim Morrison"]
 
 ---
 
+Od narození žije v Semilech a v současné době zde i pracuje. Jejím velkým zájmem je osvěta a podpora kulturních tradic i kultury jako takové. Od roku 2009 se velmi aktivně podílí na kulturním dění v Semilech nejen jako člen Kulturního spolku Semily Femily (KSSF z.s.).
+Zaměřuje se zejména na řemeslné tradice Krkonoš a Podkrkonoší v celém česko-polském pohraničí. Klade důraz na potřebu mimoškolního vzdělávání a volnočasových aktivit, s címž souvisí taktéž podpora dobrovolnických spolků a to nejen v oblasti kultury.
+
 Vystudovala VOŠMO a OA v Jablonci nad Nisou (zaměření cestovní ruch), SUPŠ sklářskou v Železném Brodě (zaměření výtvarné zpracování skla) a TU v Liberci (bakalářské studium návrhářství skla a šperku).
 
-Do roku 2010 se profesně zabývala hlavně počítačovou grafikou a výtvarnou činností, převážně na volné noze. Od roku 2010 je ve sklářské výrobě jako brusička (sklářská huť M. Štefánek).
+Od roku 2010 je ve sklářské výrobě jako brusička. V současné době vede ateliér broušeného skla – Ateliér Vrátnice v Semilech. Broušení skla i sklo jako takové je tedy její prací i koníčkem. A to hlavně díky podpoře, která se jí dostává ve vlastním rodinném zázemí.
 
-V současné době vede ateliér broušeného skla – Ateliér Vrátnice v Semilech. Broušení skla i sklo jako takové je tedy její prací i koníčkem.
+* Vůbec se mi nelíbí, jak omezování svobodného podnikání ze strany státu může ohrozit udržování našich kulturních tradic. Mám obavu, že spousta drobných výrobců, držitelů tradic i spolků svou činnost ukončí, protože kontrola a šikana státu je nenechají klidně žít. A proto jsem se přidala k Pirátům.

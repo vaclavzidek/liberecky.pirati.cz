@@ -12,18 +12,6 @@ profiles:
   facebook: https://www.facebook.com/jan.tempel
 ordpsp: 10
 
-supporting:
-- Stát, který hájí zájmy svých občanů
-- Progresivní politiky, kteří ve 21. století nejen žijí, ale i uvažují
-- Aby se se slovem byrokracie mé děti setkaly leda v dějepisu
-- Vodu. Což znamená bránit pokračujícímu suchu
-
-notsupporting:
-- Absurditám a buzeraci ze strany státu
-- Aby mě stát mohl šmírovat a přitom mi tajil, jak hospodaří s penězi od lidí
-- <a href="http://hlidacipes.org/neznalost-neomlouva-ale-cesky-pravni-rad-aktualne-obsahuje-kolem-2-milionu-pravnich-norem/" target="_blank">2.000.000 zákonům a právních norem</a>
-motto: ["Politikům se nevěří, politici se kontrolují.", "Karel Kryl"]
-
 ---
 
 Vystudoval Integrovanou střední školu v Nové Pace, v oboru Mechanik Elektrotechnik. V průběhu studia se specializoval na výpočetní techniku.
