@@ -17,7 +17,7 @@ supporting:
 - Internet (přístup k informacím) je základní lidské právo, nesmí být omezován ani cenzurován
 - Podpora spolupráce samospráv a státu na IS, otevřená data
 - Stát by měl být levným základním servisním zázemím občana a musí přestat lidem kecat do života
-- Elektronizace veřejné správy, aby vše lze šlo vyřídit z domova
+- Elektronizace veřejné správy, aby vše šlo vyřídit z domova
 - Hlubší integraci v rámci EU, která by měla přinést i zvýšení životní úrovně obyvatel
 - Průhledné hospodaření státu, všechny jeho výdaje musí být snadno veřejně dohledatelné
 - Snížení zdanění práce
