@@ -11,6 +11,22 @@ mail:
 profiles:
 ordpsp: 8
 
+supporting:
+- zjednodušení úřadů pomocí technologií
+- svobodnou volbu způsobu vzdělávání
+- zvyšování motivace pro pedagogy
+- daňové úlevy pro kulturní mecenáše
+- zprůhlednění veřejné správy
+- reformu EU
+
+notsupporting:
+- přebujelé byrokracii ve všem
+- povinnosti zavádět EET i pro spolky, drobné výrobce a živnostníky
+- monitorování občanů státní správou
+- privatizaci vodních zdrojů a dodávek pitné vody
+- vystoupení z EU
+
+
 motto: ["Nejdůležitější svoboda je být, jací doopravdy jste.", "Jim Morrison"]
 
 ---

@@ -13,6 +13,23 @@ profiles:
   facebook: https://www.facebook.com/tmartinek
 ordpsp: 3
 
+supporting:
+- Internet (přístup k informacím) je základní lidské právo, nesmí být omezován ani cenzurován
+- Podpora spolupráce samospráv a státu na IS, otevřená data
+- Stát by měl být levným základním servisním zázemím občana a musí přestat lidem kecat do života
+- Elektronizace veřejné správy, aby vše lze šlo vyřídit z domova
+- Hlubší integraci v rámci EU, která by měla přinést i zvýšení životní úrovně obyvatel
+- Průhledné hospodaření státu, všechny jeho výdaje musí být snadno veřejně dohledatelné
+- Snížení zdanění práce
+- Legalizaci konopí a jeho zdanění
+- Zavedení možnosti dobrovolného státního spoření na důchod u ČNB s garancí státu a zajištění vložených prostředků proti inflaci
+
+notsupporting:
+- Dotační podpoře velkých podniků, dotace mají být omezeny pouze na drobné a začínající podnikatele
+- Jsem proti vystoupení z EU
+- Vyvádění zisků do daňových rájů
+- Privatizaci sociálního pojištění. Stát nemá podporovat rizikové spoření u soukromých společností v rámci druhého či třetího píliře
+
 ---
 
 Vystudoval ekonomickou fakultu České zemědělské univerzity v Praze, kde získal titul inženýr.
