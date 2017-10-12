@@ -30,6 +30,7 @@ notsupporting:
 - Vyvádění zisků do daňových rájů
 - Privatizaci sociálního pojištění. Stát nemá podporovat rizikové spoření u soukromých společností v rámci druhého či třetího píliře
 
+motto: ["Ti, kdo jsou podřízeni, se bouří, aby se stali rovnými. Ti, kdo jsou rovní, se bouří, aby se stali nadřazenými.", "Aristotelés"]
 ---
 
 Vystudoval ekonomickou fakultu České zemědělské univerzity v Praze, kde získal titul inženýr.
