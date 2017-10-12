@@ -16,6 +16,16 @@ profiles:
 ordpsp: 4
 ordpks: 2
 
+supporting:
+- Průhledné hospodaření státu
+- Nižší míru byrokracie
+- Maximální elektronizaci státní a veřejné správy
+- Investice do vzdělávání
+notsupporting:
+- Dotačním pobídkám montovnám
+- Privatizaci základních veřejných služeb
+- Šikaně občanů
+
 motto: ["Pro tento systém jsou dostupné aktualizace.", "Petr Vyhnal"]
 
 ---
