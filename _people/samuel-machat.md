@@ -13,14 +13,13 @@ profiles:
 ordpsp: 17
 
 supporting:
-- Stát, který hájí zájmy svých občanů
-- Progresivní politiky, kteří ve 21. století nejen žijí, ale i uvažují
-- Aby se se slovem byrokracie mé děti setkaly leda v dějepisu
-- Vodu. Což znamená bránit pokračujícímu suchu
+- Elektronizaci státní správy a úřadů
+- Legalizaci konopí a jeho zdanění
+- Adopci dětí stejnopohlavními páry
+- Svobodný software na školách
 
 notsupporting:
-- Absurditám a buzeraci ze strany státu
-- Aby mě stát mohl šmírovat a přitom mi tajil, jak hospodaří s penězi od lidí
+- Vystoupení z NATO a EU
 
 ---
 
