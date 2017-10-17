@@ -1,9 +1,10 @@
 
 # Piráti Liberec 
-http://piratiliberec.mfnet.cz
+https://piratiliberec.mfnet.cz
+https://liberecky.pirati.cz
 
 
-Naklonovaný web JmK, z kterého vychází tento náš lkiberecký. Níže následuje obsah copypastovaný z centrální verze.
+Naklonovaný web JmK, z kterého vychází tento náš liberecký. Níže následuje obsah copypastovaný z centrální verze.
 
 ## Lokální spuštění
 
