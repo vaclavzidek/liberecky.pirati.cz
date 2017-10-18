@@ -11,13 +11,11 @@ mail:
 profiles:
   facebook: https://www.facebook.com/samuel.machat.1
 ordpsp: 17
-
 supporting:
 - Elektronizaci státní správy a úřadů
 - Legalizaci konopí a jeho zdanění
 - Adopci dětí stejnopohlavními páry
 - Svobodný software na školách
-
 notsupporting:
 - Vystoupení z NATO a EU
 

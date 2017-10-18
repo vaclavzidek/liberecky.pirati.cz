@@ -30,7 +30,7 @@ layout: default
                 {% endfor %}
               </div>
 
-              <div class="jmk-candidates jmk-candidates-rest">
+              <div class="jmk-candidates jmk-candidates-rest clearfix">
                   {% assign team = site.people | where_exp:"item","item.categories contains 'psp'" | sort:"ordpsp" %}
                   {% assign lastItemIndex = site.people.size | minus: 7 %}
                   {% for item in team offset:6 %}

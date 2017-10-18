@@ -26,7 +26,7 @@ notsupporting:
 - Jakákoliv forma dotací a pobídek poškozuje ekonomiku a podporuje pouze velké a nadnárodní firmy
 - Jsem proti vystoupení z EU
 - ČNB by neměla nadále ovlivňovat kurz koruny, stop intervencím a znehodnocování českých platů
-- Zákaz kouření v jakýchkoliv soukormých prostorech by měl být zrušen
+- Zákaz kouření v jakýchkoliv soukromých prostorech by měl být zrušen
  
 
 motto: ["Nic není důležitější než svoboda.", "Ernest Hemingway, americký spisovatel a novinář"]
