@@ -23,6 +23,29 @@ V dopolední části zasedání bude na programu představení nových členů s
 
 Zasedání Krajského fóra je otevřená akce, určená široké veřejnosti. Srdečně zváni jsou nejen členové a registrovaní příznivci Pirátské strany, ale každý, koho pirátská politika zajímá. **Zúčastnit se můžete na základě předchozí on-line registrace**, která je nutná z důvodu omezené kapacity prostoru a rezervace oběda.
 
+----------
+
+**Časový harmonogram jednání:**
+
+Registrace od 9:00, Start v 10:00
+
+ 1. Vystoupení Ivana Bartoše (cca 30 minut)  
+ 2. Volební kampaň Pirátů v LiK (příběh úspěchu)
+ 3. Zastupitel v České Lípě 2014 - 2017
+ 4. Nový poslanec (co se stalo od voleb a plány)
+
+Oběd (cca 60 min)
+
+ 5. Představení nových členů 
+ 6. Plány 2017 (stručný souhrn)
+ 7. Pirátské informační centrum (PIXEL)
+ 8. Finanční situace 
+ 9. Volná debata
+
+Konec: cca v 16:30 + přesun na [AfterPirát párty](https://www.facebook.com/events/127706927923020/)
+
+----------
+
 **Odkazy:**
 
 Registrace: [https://piratiliberec.mfnet.cz/registrace](https://piratiliberec.mfnet.cz/registrace)
