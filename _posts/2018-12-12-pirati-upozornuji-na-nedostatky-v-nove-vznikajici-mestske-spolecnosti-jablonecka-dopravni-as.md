@@ -4,7 +4,7 @@ category:     blog
 tags:         nedostatky funkce představenstvo dozorčí rada jablonecká dopravní 
 layout:       post
 title:        "Piráti upozorňují na nedostatky a doporučují jabloneckému vedení dvakrát měřit, než rychle rozdávat funkce v představenstvu a dozorčí radě v nově vznikající městské společnosti Jablonecká dopravní a.s." 
-image:        /assets/img/posts/pirati-upozornuji-na-nedostatky-v-nove-vznikajici-mestske-spolecnosti-jablonecka-dopravni-as.jpg
+image:        /assets/img/posts/pirati-upozornuji-na-nedostatky-v-nove-vznikajici-mestske-spolecnosti-jablonecka-dopravni-as_2.jpg
 author:       Ida Chuchlíková
 ---
 
