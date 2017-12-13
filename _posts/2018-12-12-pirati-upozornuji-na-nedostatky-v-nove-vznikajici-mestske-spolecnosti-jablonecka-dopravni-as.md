@@ -1,12 +1,13 @@
 ---
 date:         2017-12-12
 category:     blog
-tags:         nedostatky funkce představenstvo dozorčí rada jablonecká dopravní 
+tags:         nedostatky funkce představenstvo dozorčí rada jablonecká dopravní politické trafiky 
 layout:       post
-title:        "Piráti upozorňují na nedostatky a doporučují jabloneckému vedení dvakrát měřit, než rychle rozdávat funkce v představenstvu a dozorčí radě v nově vznikající městské společnosti Jablonecká dopravní a.s." 
+title:        "Piráti brojí proti politickým trafikám. Chtějí lepší stanovy v městských společnostech" 
 image:        /assets/img/posts/pirati-upozornuji-na-nedostatky-v-nove-vznikajici-mestske-spolecnosti-jablonecka-dopravni-as_2.jpg
 author:       Ida Chuchlíková
 ---
+**Piráti upozorňují na nedostatky a doporučují jabloneckému vedení dvakrát měřit, než rychle rozdávat funkce v představenstvu a dozorčí radě v nově vznikající městské společnosti Jablonecká dopravní a.s.**
 
 Jablonecký náměstek pro ekonomiku, [Miloš Vele (ODS)](https://www.ods.cz/region.liberecky/profil/1863-milos-vele), předkládá dle zveřejněného programu zastupitelstva města na čtvrteční jednání záměr založit novou městskou společnost Jablonecká dopravní a. s.
 
