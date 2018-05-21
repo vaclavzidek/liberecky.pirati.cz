@@ -16,4 +16,9 @@ Předsedou byl zvolen jablonecký rodák Jan Polák, 1. místopředsedou právn�
 
 Založení místního sdružení v Jablonci nad Nisou je první ze série změn, jež Piráti v Jablonci plánují uskutečňovat a které by měly usnadnit přímý kontakt Pirátské strany s občany a akcentovat jejich podněty ve svém programu.
 
-Podle 1. místopředsedy Lukáše Lva Červinky je prvořadým úkolem nového předsednictva “představit Jablonečanům kvalitní program, který bude nabízet východisko ze současné letargie, v níž se Jablonec nachází, a zkušené odborníky na kandidátce, kteří tento nový směr jablonecké politiky budou zosobňovat. Jsme přesvědčeni, že všichni v Jablonci cítíme ten obrovský potenciál, který naše město má a který bohužel zůstává dlouhodobě nevyužit. Pirátskou vizí je stávající situaci v Jablonci radikálním způsobem změnit.” 
+Podle 1. místopředsedy Lukáše Lva Červinky je prvořadým úkolem nového předsednictva: 
+>“Představit Jablonečanům kvalitní program, který bude nabízet východisko ze současné letargie, v níž se Jablonec nachází, a zkušené odborníky na kandidátce, kteří tento nový směr jablonecké politiky budou zosobňovat. Jsme přesvědčeni, že všichni v Jablonci cítíme ten obrovský potenciál, který naše město má a který bohužel zůstává dlouhodobě nevyužit. Pirátskou vizí je stávající situaci v Jablonci radikálním způsobem změnit.” 
+
+Kontaktní osoba:
+Lukáš Lev Červinka 
+lukas.lev.cervinka@pirati.cz
