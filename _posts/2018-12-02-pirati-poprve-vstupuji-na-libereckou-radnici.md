@@ -1,7 +1,7 @@
 ---
 date: 2018-12-02
 category: blog
-tags: zasedání liberec krajské fórum 2018 volby předsednictva
+tags: liberec zastupitelstvo jana schlegelova kontrolní výbor
 layout: post
 title: Piráti poprvé vstupují na libereckou radnici 
 author: Kateřina Jínová
