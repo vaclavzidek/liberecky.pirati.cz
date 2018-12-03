@@ -33,7 +33,7 @@ Vrcholem zasedání bylo vystoupení pirátských poslanců: s krátkými, ale i
 foto:
 Andrea Vavřichová
 
-[https://drive.google.com/open?id=1SYloTUMn2_IQQg5o_kuOM2lvp1ZlxfnV]([https://drive.google.com/open?id=1SYloTUMn2_IQQg5o_kuOM2lvp1ZlxfnV])
+[https://drive.google.com/open?id=1SYloTUMn2_IQQg5o_kuOM2lvp1ZlxfnV](https://drive.google.com/open?id=1SYloTUMn2_IQQg5o_kuOM2lvp1ZlxfnV)
 
 [https://drive.google.com/open?id=1JEEFNwehZoX_qlGFdL4DcgDe5488qh26](https://drive.google.com/open?id=1JEEFNwehZoX_qlGFdL4DcgDe5488qh26)
 
