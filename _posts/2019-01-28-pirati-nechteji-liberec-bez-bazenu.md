@@ -20,8 +20,8 @@ Zástupci České pirátské strany v Liberci založili na Facebooku stránku "N
 
 Stránka na Facebooku: [https://www.facebook.com/nechcemeliberecbezbazenu/](https://www.facebook.com/nechcemeliberecbezbazenu/)<br/>
 Online petice: [(https://www.petice24.com/nechceme_liberec_bez_bazenu](https://www.petice24.com/nechceme_liberec_bez_bazenu)<br/>
-Kontakty: [piratiliberecko@gmail.com](mailto:piratiliberecko@gmail.com)    
 
+Kontakty: [piratiliberecko@gmail.com](mailto:piratiliberecko@gmail.com)<br/>
 Jan Hruška, 737 52 48 09<br/>
 Pavel Felgr, 777 585 483<br/>
 Václav Balšánek, 608 638 329
