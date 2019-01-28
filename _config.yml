@@ -11,7 +11,7 @@ email: to@pirati.cz
 description: > # this means to ignore newlines until "baseurl:"
   Web oblastního sdružení Liberecký kraj České pirátské strany
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://liberecky.pirati.cz" # the base hostname & protocol for your site
+url: "httpa://liberecky.pirati.cz" # the base hostname & protocol for your site
 twitter_username: jekyllrb
 github_username:  jekyll
 
