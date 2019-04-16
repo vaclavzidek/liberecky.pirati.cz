@@ -6,13 +6,13 @@ category:                 	# kategorie: kandidat, pks, zastupitel
 - psp
 - pks
 img: people/daniela-weissova.jpg   # 165 x 220
-description: Druhá místopředsedkyně libereckých pirátů, OSVČ, dramaturg Kulturního centra Turnov, zdravotní klaun.            	# kratký popis, max 160 znaků
+description: Třetí místopředsedkyně libereckých pirátů, OSVČ, dramaturg Kulturního centra Turnov, zdravotní klaun.            	# kratký popis, max 160 znaků
 mail:
 - daniela.weissova@pirati.cz
 profiles:
   facebook: https://www.facebook.com/daniela.weissova.9
 ordpsp: 2
-ordpks: 3
+ordpks: 4
 
 
 motto: ["Smích je branou a úsměv dveřmi, kterými může do člověka vklouznout mnoho dobrého.", "Christian Morgenstern"] 

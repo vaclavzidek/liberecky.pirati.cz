@@ -4,13 +4,15 @@ name:     Marek Förster  	# běžně používáné jméno
 fullname: Marek Förster  	# jméno s tituly etc.
 category:                 	# kategorie: kandidat, pks, zastupitel
 - psp
+- pks
 img: people/marek-forster.jpg   # 165 x 220
-description: OSVČ, vývojář internetových a databázových aplikací, DJ a producent, pilot.            	# kratký popis, max 160 znaků
+description: OSVČ, vývojář internetových a databázových aplikací, DJ a producent, pilot. Čtvrtý místopředseda krajského sdružení.           	# kratký popis, max 160 znaků
 mail:
 - marek.forster@pirati.cz
 profiles:
   twitter: https://twitter.com/madbeyk
 ordpsp: 7
+ordpks: 5
 
 supporting:
 - Internet (přístup k informacím) je základní lidské právo, nesmí být omezován ani cenzurován

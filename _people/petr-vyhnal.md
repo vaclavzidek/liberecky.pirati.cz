@@ -6,7 +6,7 @@ category:                 	# kategorie: kandidat, pks, zastupitel
 - psp
 - pks
 img: people/petr-vyhnal.jpg   # 165 x 220
-description: IT specialista v oblasti bezpečnosti ITC, CISSP. První místopředseda krajského sdružení libereckého kraje.            	# kratký popis, max 160 znaků
+description: IT specialista v oblasti bezpečnosti ITC, CISSP. Otec dvou dětí. Druhý místopředseda krajského sdružení libereckého kraje.            	# kratký popis, max 160 znaků
 mail:
 - petr.vyhnal@pirati.cz 
 mob:			  +420 605 551 885
@@ -14,7 +14,7 @@ profiles:
   facebook: https://www.facebook.com/rudiik
   jabber:  rudiik@simerion.net
 ordpsp: 4
-ordpks: 2
+ordpks: 3
 
 supporting:
 - Průhledné hospodaření státu

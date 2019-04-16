@@ -10,6 +10,7 @@ layout: default
         <main class="o-section-block">
           <div class="c-BasicPage">
             <div class="c-BasicPage-content">
+              <!---
               <div class="jmk-candidates">
                 <h1>Naši kandidáti do voleb do poslanecké sněmovny</h1>
                 <p>
@@ -44,18 +45,10 @@ layout: default
                     {% endif %}
                   {% endfor %}
               </div>
-
-              <ul class="c-simple-accordion" data-accordion="" data-options="allowAllClosed: true">
-                <li class="c-simple-accordion-item" data-accordion-item="">
-                  <a href="#zast" class="c-simple-accordion-title">Naši zastupitelé</a>
-                  <div id="zast" class="c-simple-accordion-content" data-tab-content="">
-                    {% assign team = site.people | where_exp:"item","item.categories contains 'zast'" | sort:"ordzast" %}
-                    {% include people/list-2col.html param=team %}
-                  </div>
-                </li>
-              </ul>
-              <ul class="c-simple-accordion" data-accordion="" data-options="allowAllClosed: true">
-                <li class="c-simple-accordion-item" data-accordion-item="">
+              --->
+              
+              <ul class="c-simple-accordion" data-accordion="" data-options="allowAllClosed: false">
+                <li class="c-simple-accordion-item is-active" data-accordion-item="">
                   <a href="#pks" class="c-simple-accordion-title">Předsednictvo krajského sdružení</a>
                   <div id="pks" class="c-simple-accordion-content" data-tab-content="">
                     {% assign team = site.people | where_exp:"item","item.categories contains 'pks'" | sort:"ordpks" %}
@@ -63,6 +56,18 @@ layout: default
                   </div>  
                 </li>
               </ul>
+
+              <ul class="c-simple-accordion" data-accordion="" data-options="allowAllClosed: false">
+                <li class="c-simple-accordion-item" data-accordion-item="">
+                  <a href="#zast" class="c-simple-accordion-title">Naši zastupitelé</a>
+                  <p>Tato sekce je neaktuální a bude se průběžně aktualizovat</p>
+                  <div id="zast" class="c-simple-accordion-content" data-tab-content="">
+                    {% assign team = site.people | where_exp:"item","item.categories contains 'zast'" | sort:"ordzast" %}
+                    {% include people/list-2col.html param=team %}
+                  </div>
+                </li>
+              </ul>
+
               <!--
               <ul class="c-simple-accordion" data-accordion="" data-options="allowAllClosed: true">
                 <li class="c-simple-accordion-item" data-accordion-item="">
