@@ -9,7 +9,7 @@ author: Michal Chalupa
 image: /assets/img/posts/2019-05-02-pirati-predstavili-ve-varsave-kandidaty-do-evropskeho-parlamentu.jpg
 ---
 
-V libereckém kině Varšava se na Čarodějnice odehrála debata pirátských kandidátů do Evropského parlamentu. V té se nominanti nejprve vyjadřovali k volebnímu programu a dostalo se i na dotazy z publika. Po besedě akce vyvrcholila ohněm v prostorách někdejší fabriky Textilana, kde svůj dýdžejský um předvedl předseda České pirátské strany [Ivan Bartoš](https://www.pirati.cz/lide/ivan-bartos/){:target="_blank"}. Ten také první část večera moderoval.
+*V libereckém kině Varšava se na Čarodějnice odehrála debata pirátských kandidátů do Evropského parlamentu. V té se nominanti nejprve vyjadřovali k volebnímu programu a dostalo se i na dotazy z publika. Po besedě akce vyvrcholila ohněm v prostorách někdejší fabriky Textilana, kde svůj dýdžejský um předvedl předseda České pirátské strany [Ivan Bartoš](https://www.pirati.cz/lide/ivan-bartos/){:target="_blank"}. Ten také první část večera moderoval.*
 
 O tom, že ostrá fáze kampaně Pirátů odstartovala naplno, svědčí liberecká debata kandidátů do Evropského parlamentu moderovaná předsedou České pirátské strany Ivanem Bartošem. Za účasti lídra do eurovoleb Marcela Kolaji se představili další aspiranti na europoslance - předseda Krajského sdružení Pirátů [Ondřej Kolek](https://evropapotrebuje.cz/kandidati/ondrej-kolek/){:target="_blank"}, ústavní právník [Lukáš Lev Červinka](https://www.lukas-lev-cervinka.com/){:target="_blank"} a nezávislý kandidát za Piráty, dlouholetý auditor Evropské komise a poradce Ministerstva financí, [Petr Jirman](https://evropapotrebuje.cz/kandidati/petr-jirman/){:target="_blank"}.
 
