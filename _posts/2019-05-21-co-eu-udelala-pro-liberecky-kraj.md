@@ -44,10 +44,13 @@ Mluvíme-li o dotacích – ČR získala z evropského rozpočtu přes 700 milia
 
 **Odstranění manganu z vodovodní sítě Turnovska (28 mil Kč).**
 
+
 Jedná se sice o výčet jen několika málo projektů za poslední roky, které byly realizovány v Libereckém kraji díky financování z Evropské unie, přesto je však zřejmé, že se projekty dotýkají každého z nás. Ať již proto, že dojíždíme do školy nebo do práce, potřebujeme mateřské školky pro naše děti, snažíme se najít práci nebo jednoho dne můžeme potřebovat lékařskou pomoc. Je zároveň jasné, že politika Evropské unie ovlivňuje životy nás všech, a to mnohem více než si možná uvědomujeme. 
 
 Bohužel však Česká republika měla doposud v Evropském parlamentu poslance, kteří buď nebyli schopni, nebo vůbec ochotni zájmy českých občanů zastupovat. Každý z nich si rád postěžoval, jak je Brusel špatný, ale nikdy neudělal nic proto, aby Česká republika byla aktivním členem, který se podílí na rozhodování a nesedí jen v koutě a nemumlá si něco pod vousy.
 
 V květnu to máme ale šanci změnit! Blížící se eurovolby jsou příležitostí změnit naše město, náš region i celou Evropu. Jsou jedinečnou šancí, aby byl slyšet hlas každého z nás, aby i ti, kteří jsou často opomíjeni a které politici dlouho ignorují, mohli skutečně něco reálně změnit. 
 
+
 autor: [Lukáš Lev Červinka](https://evropapotrebuje.cz/kandidati/lukas-lev-cervinka/){:target="_blank"}, pirátský kandidát číslo 9 do Evropského parlamentu
+
