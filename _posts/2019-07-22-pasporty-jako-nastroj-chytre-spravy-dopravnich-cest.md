@@ -4,7 +4,7 @@ category: blog
 tags: pasporty nástroj správa dopravních cest
 layout: post
 title: Pasporty jako nástroj chytré správy dopravních cest
-author: Václav Žídek
+author: Václav Židek
 image: /assets/img/posts/2019-07-22-pasporty-jako-nastroj-chytre-spravy-dopravnich-cest.jpg
 ---
 Pasport místních komunikací je základní evidencí místních komunikací. Jedná se o evidenci údajů ke každé komunikaci, která sleduje délku a šířku komunikace, druh povrchu komunikace, její stav a další údaje k její údržbě. V ideálním případě je součástí pasportu i informace o technologickém zhotovení komunikace a informace o termínu a rozsahu předpokládané rekonstrukce, časové a finanční náročnosti při drobné i generální rekonstrukci. 
