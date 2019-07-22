@@ -4,7 +4,7 @@ category: blog
 tags: setkání stráž pod ralskem
 layout: post
 title: 1. setkání (nejen) Pirátů z blízka i daleka ve Stráži pod Ralskem 10. - 11. 8. 2019
-author: Václav Žídek
+author: Václav Židek
 image: /assets/img/posts/2019-07-19-setkani-nejen-piratu-z-blizka-i-daleka-ve-strazi-pod-ralskem-srpen-2019.jpg
 ---
 Již klepe na dveře první ročník setkání pirátských členů, příznivců a podporovatelů, poprvé ve Stráži pod Ralskem. Zde budeme mít možnost diskutovat o různých tématech a trávit čas aktivním odpočinkem společně s pirátskými poslanci Františkem Navrkalem a Tomášem Martínkem. Vítáni jsou všichni z daleka i blízka.
