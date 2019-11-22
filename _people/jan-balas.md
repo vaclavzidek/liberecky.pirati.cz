@@ -3,7 +3,6 @@ uid: jan.balas
 name:     Jan Balaš  	# běžně používáné jméno
 fullname: Bc. Jan Balaš  	# jméno s tituly etc.
 category:                 	# kategorie: kandidat, pks, zastupitel
-- psp
 img: people/jan-balas.jpg   # 165 x 220
 description: Student oboru Mezinárodní teritoriální studia na UK            	# kratký popis, max 160 znaků
 mail:
