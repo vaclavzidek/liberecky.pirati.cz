@@ -3,8 +3,7 @@ uid: petr.balek
 name:     Petr Balek  	# běžně používáné jméno
 fullname: PhDr. Petr Balek  	# jméno s tituly etc.
 category:                 	# kategorie: kandidat, pks, zastupitel
-- psp
-- zast
+
 img: people/petr-balek.jpg   # 165 x 220
 description: Vysokoškolský pedagog, sociolog a ekonom, zastupitel obce Mimoň za Piráty.           	# kratký popis, max 160 znaků
 mail:
